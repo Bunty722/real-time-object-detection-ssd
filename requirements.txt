@@ -1,0 +1,7 @@
+opencv-python
+imutils
+numpy
+
+
+Optional (if using Jupyter Notebooks in setup):
+notebook
